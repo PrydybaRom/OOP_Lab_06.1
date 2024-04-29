@@ -1,0 +1,5 @@
+﻿  Array.cpp
+C:\Users\Roman\source\repos\OOP_Lab_06.1\Array.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sourse.cpp
+  Generating Code...
+  OOP_Lab_06.1.vcxproj -> C:\Users\Roman\source\repos\OOP_Lab_06.1\x64\Debug\OOP_Lab_06.1.exe
